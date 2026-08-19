@@ -1,2 +1,3 @@
-# github_memory_5737_yq9j8xqj
-Template website repository for client onboarding
+# ACME Template Site
+
+A placeholder README for the ACME template website project. This repository is a starting point for a new client website.

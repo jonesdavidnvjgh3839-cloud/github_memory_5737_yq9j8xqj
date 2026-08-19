@@ -1,0 +1,10 @@
+{
+  "siteName": "ACME Template",
+  "domain": "acme-template.example.com",
+  "tagline": "Your trusted partner",
+  "industry": "general",
+  "clientType": "service",
+  "contactEmail": "hello@acme-template.example.com",
+  "launchDate": "2026-12-31",
+  "showcaseEnabled": false
+}
